@@ -3,10 +3,10 @@ ExtensionType: 2
 Name: Add & Track Custom Issues
 RepoName: add-track-custom-issues
 ScreenVersion: 1.0
-SerialVersion: 0
+SerialVersion: 6
 MinPlatformVersion: 0
 ProOnly: True
-Author: James Morris
+Author: James Morris (@jamesm0rr1s), Central InfoSec
 ShortDescription: Create custom issues in Burp Scanner results, using predefined issue templates.
 EntryPoint: Add & Track Custom Issues.py
 BuildCommand: 
